@@ -1,7 +1,0 @@
-type = "webpack"
-zone_id = ""
-account_id = "55505d89c03e2bf3e5e7e11d34721ddc"
-route = ""
-workers_dev = true
-webpack_config = "webpack.config.js"
-name = "my-app"
